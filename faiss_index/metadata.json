@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_customer_support_summary.pdf",
+    "source_path": "daraz_knowledge_base/customer_support/daraz_customer_support_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Customer Support — Knowledge Base\n Summary\nSource: https://www.daraz.pk/contact-us/\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n Daraz provides a Help Center and customer-care flows for order tracking, returns, cancellations and other\nquestions.\n The Contact Us page provides links to returns/refunds, order help and other support resources.\n For policy-sensitive answers, the support and policy pages should be checked for the latest rules.\nSource URL: https://www.daraz.pk/contact-us/"
+  },
+  {
+    "id": 1,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_delivery_policy_summary.pdf",
+    "source_path": "daraz_knowledge_base/delivery/daraz_delivery_policy_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Delivery / Order Handling — Knowledge\n Base Summary\nSource: https://www.daraz.pk/terms-conditions/\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n Delivery and order processing are governed by Daraz's terms and applicable product/order information.\n Customers should provide a complete and accurate shipping address and accept delivery.\n If an item arrives defective or differs from the order, customers are directed to follow the applicable Daraz\nreturn process rather than reject delivery solely for that reason.\n Delivery, shipping and rejection rules can vary by order and product.\nSource URL: https://www.daraz.pk/terms-conditions/"
+  },
+  {
+    "id": 2,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_payment_policy_summary.pdf",
+    "source_path": "daraz_knowledge_base/pyments/daraz_payment_policy_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Payments — Knowledge Base\n Summary\nSource: https://sellercenter.daraz.pk/v2/home\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n Daraz Seller Center states that seller payments are based on orders marked Delivered.\n The Seller Center states that delivered-product payments are settled weekly, subject to the stated\nbusiness-day handling.\n Daraz's customer terms require transactions and payments to remain within the Daraz platform.\n Payment/refund availability and timing can depend on the payment method and order status.\nSource URL: https://sellercenter.daraz.pk/v2/home"
+  },
+  {
+    "id": 3,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_refund_policy_summary.pdf",
+    "source_path": "daraz_knowledge_base/refund/daraz_refund_policy_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Refund Policy — Knowledge Base\n Summary\nSource: https://www.daraz.pk/refund-policy/\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n Eligible refunds depend on the return/quality-check process and the selected refund method.\n Daraz states that shipping fees are refunded along with the returned product amount when applicable.\n Published refund timelines vary by payment method; examples include card refunds in working days and\nDaraz Wallet refunds that can be much faster.\n Failed/false-delivery prepaid orders can have different refund timelines from ordinary returns.\n Refund rules can change, so the official policy page should be treated as the current source.\nSource URL: https://www.daraz.pk/refund-policy/"
+  },
+  {
+    "id": 4,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_return_policy_summary.pdf",
+    "source_path": "daraz_knowledge_base/return/daraz_return_policy_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Return Policy — Knowledge Base\n Summary\nSource: https://www.daraz.pk/return-policy/\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n Return requests are generally required within 14 days of delivery.\n Common eligible reasons include damaged, defective, incorrect, incomplete, or not-as-described items;\ncategory-specific rules apply.\n Some categories/items are non-returnable or do not allow change-of-mind returns.\n Returned products generally need to be unused/unworn/unwashed, with original tags, accessories,\nmanuals, freebies and packaging where applicable.\n Daraz may reject a refund if the returned item does not satisfy the applicable return conditions.\nSource URL: https://www.daraz.pk/return-policy/"
+  },
+  {
+    "id": 5,
+    "department": "daraz_knowledge_base",
+    "source_file": "daraz_seller_marketplace_summary.pdf",
+    "source_path": "daraz_knowledge_base/seller/daraz_seller_marketplace_summary.pdf",
+    "page": 1,
+    "text": "Daraz Pakistan Seller / Marketplace Agreement —\n Knowledge Base Summary\nSource: https://pages.daraz.pk/wow/i/pk/help/marketplace-agreement?hybrid=1\nImportant: This is a concise knowledge-base summary generated from the public Daraz Pakistan source\npage. It is not an official Daraz-issued PDF and should not replace the live source.\n The Marketplace Agreement defines seller obligations, Seller Center access, shipping/dispatch\nresponsibilities and seller performance requirements.\n For applicable returns, sellers accept cases such as defective/damaged, incorrect and incomplete\nproducts, with category-specific exceptions.\n Daraz may refund customers for eligible prepaid cancellations, rejected products or returned products\nunder the agreement.\n Seller shipping, packing and fulfilment responsibilities are governed by the agreement and related policies.\nSource URL: https://pages.daraz.pk/wow/i/pk/help/marketplace-agreement?hybrid=1"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "total_chunks": 6,
+  "metric": "cosine_similarity",
+  "index_type": "IndexFlatIP"
+}
